@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Virtual environment
+.lib_venv/
+
+# Credentials (never commit)
+GUI/Credentials/
