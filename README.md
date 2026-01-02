@@ -377,3 +377,5 @@ edit Language.json
 
 
 ## <p align = center>LICENSE: GPL-3.0 License <br>COPYRIGHT: (C) 2021-2024 Lucksi
+
+# Last security audit: 2026-01-02
